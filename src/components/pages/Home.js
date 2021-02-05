@@ -10,7 +10,8 @@ function  Home() {
       <BodySection />
       <Cards />
       <Footer />
-    </>
+      </>
+    
   );
 }
 

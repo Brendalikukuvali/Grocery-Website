@@ -23,6 +23,7 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+  padding-top: 0px;
 } 
 .vegetables {
   background-image: url('https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/powerhouse_vegetables_slideshow/650x350_powerhouse_vegetables_slideshow.jpg');
