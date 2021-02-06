@@ -5,67 +5,81 @@ import CardItem from './CardItem';
 function Product1() {
   return (
     <div className='cards'>
-      <h1 className='fruits'>Fruits</h1>
-      <div/>
+      <h1 className='fruits'>Get Fresh Fruits Everyday!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
+
           <ul className='cards__items'>
             <CardItem
               src='/images/apple.jpeg'
-              price='@ Ksh.40 each'
-              text='Fresh and sweet'
+              price='@ Ksh.40 Each'
+              text='Fresh and sweet Apples'
               label='Apples'
               path='/fruits'
             />
             <CardItem
+              src='/images/Bana.jpg'
+              price='@ Ksh.5 Each'
+              text='Fresh and sweet Banana'
+              label='Banana'
+              path='/fruits'
+            />
+            <CardItem
               src='/images/avoca.jpg'
-              price='@ Ksh.50 each'
-              text='Fresh and sweet'
+              price='@ Ksh.50 Each'
+              text='Fresh and sweet Avocado'
               label='Avocado'
               path='/fruits'
             />
            <CardItem
               src='/images/orange.jpg'
-              price='@ Ksh.20 each'
-              text='Fresh and sweet'
+              price='@ Ksh.20 Each'
+              text='Fresh and sweet Oranges'
               label='Orange'
               path='/fruits'
             />
             <CardItem
-              src='/images/grape.jpg'
-              price='@ Ksh.150 per kg'
-              text='Fruits and sweet'
-              label='Grapes'
+              src='/images/Pears.jpg'
+              price='@ Ksh.30 Each'
+              text='Fresh Pears available'
+              label='Pears'
               path='/fruits'
             />
           </ul>
-          
+
           <ul className='cards__items'>
+          <CardItem
+              src='/images/Mango.jpg'
+              price='@ Ksh.15 Each'
+              text='Fresh and sweet Mangoes'
+              label='Mango'
+              path='/fruits'
+            />
             <CardItem
               src='/images/pawpaw.jpg'
-              price='@ Ksh.80 each'
-              text='Fresh and sweet pawpaw'
+              price='@ Ksh.60 Each'
+              text='Fresh and sweet Pawpaw'
               label='Pawpaw'
               path='/fruits'
             />
             <CardItem
               src='/images/guava.jpg'
-              price='@ Ksh.5 per kg'
-              text='Fresh and sweet guavas'
+              price='@ Ksh.5 per Kg'
+              text='Fresh and sweet Quavas'
               label='Guavas'
               path='/fruits'
             />
             <CardItem
               src='/images/melon.jpg'
-              price='@ Ksh.300 each'
-              text='Fresh and sweet water melon'
+              price='@ Ksh.300 Each'
+              text='Fresh and sweet Melon'
               label='Water melon'
               path='/fruits'
             />
             <CardItem
               src='/images/pin.jpg'
-              price='@ Ksh.150 each'
-              text='Fresh and sweet pineapple'
+              price='@ Ksh.150 Each'
+              text='Fresh and sweet Pineapple'
               label='Pineapple'
               path='/fruits'
             />
@@ -73,94 +87,115 @@ function Product1() {
           
           <ul className='cards__items'>
             <CardItem
-              src='./images/fru.jpg'
-              price='@ Ksh.500 per basket'
-              text='Fresh fruveggies'
-              label='Fruveggies'
-              path='/all'
+              src='./images/Bake.jpg'
+              price='@ Ksh.500 per Basket'
+              text='Fresh and juicy Fruits'
+              label='Juicy'
+              path='/fruits'
             />
             <CardItem
-              src='/images/img.jpg'
-              price='@ Ksh.500 per basket'
-              text='Fresh fruvegies'
-              label='Fruvegies'
-              path='/vegetables'
+              src='/images/Bake1.jpg'
+              price='@ Ksh.500 per Basket'
+              text='Fresh and juicy Fruits'
+              label='Juicy'
+              path='/fruits'
             />
             <CardItem
-              src='/images/frus.jpg'
-              price='@ Ksh.500 per basket'
-              text='Fresh and an affordable price'
-              label='Fruveggies'
-              path='/all'
+              src='/images/Bake2.jpg'
+              price='@ Ksh.500 per Basket'
+              text='Fresh and juicy Fruits'
+              label='Juicy'
+              path='/fruits'
             />
             <CardItem
-              src='/images/frug.jpg'
-              price='@ Ksh.500 per basket'
-              text='Always fresh and sweet'
-              label='Fruveggies'
-              path='/all'
-            />
-          </ul>
-
-          <ul className='cards__items'>
-            <CardItem
-              src='/images/broco.jpg'
-              price='@ Ksh.200 per Kg'
-              text='Fresh and sweet Brocoli'
-              label='Brocolli'
-              path='/vegetables'
+              src='/images/Bake3.jpg'
+              price='@ Ksh.500 per Basket'
+              text='Frsh and juicy Fruits'
+              label='Jucy'
+              path='/fruits'
             />
             <CardItem
-              src='/images/onion.jpg'
-              price='@ Ksh.130 per Kg'
-              text='Fresh onions available'
-              label='Onions'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/beetru.jpg'
-              price='@ Ksh.130 per Kg'
-              text='Fresh beetroots available'
-              label='Beetroots'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/tomato.jpeg'
-              price='@ Ksh.150 per Kg'
-              text='Fresh tomatoes'
-              label='Tomatoes'
-              path='/vegetables'
+              src='/images/Bake4.jpg'
+              price='@ Ksh.500 per Basket'
+              text='Fresh and sweet Fruits'
+              label='Juicy'
+              path='/fruits'
             />
           </ul>
 
           <ul className='cards__items'>
             <CardItem
-              src='/images/cucu.jpg'
-              price='@ Ksh.140 per Kg'
-              text='Fresh cucumbers available'
-              label='Cucumber'
-              path='/vegetables'
+              src='/images/Pash.jpg'
+              price='@ Ksh.5 Each'
+              text='Fresh Passion available'
+              label='Banana'
+              path='/fruits'
             />
             <CardItem
-              src='/images/cabbe.jpg'
-              price='@ Ksh.50 Each'
-              text='Fresh cabbages available'
-              label='Cabbage'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/kales.jpg'
-              price='@ Ksh.60 per Kg'
-              text='Fresh kales available'
-              label='Kales'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/spinach.jpg'
+              src='/images/Loqu.jpg'
               price='@ Ksh.70 per Kg'
-              text='Fresh spinach available'
-              label='Spinach'
-              path='/vegetables'
+              text='Fresh Loquats available'
+              label='Loquats'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Java.png'
+              price='@ Ksh.150 per Kg'
+              text='Fresh Java Plum available'
+              label='Java Plum'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Berry.jpg'
+              price='@ Ksh.130 per Kg'
+              text='Fresh Berries available'
+              label='Berry'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/grape.jpg'
+              price='@ Ksh.150 per Kg'
+              text='Fruits and sweet Grapes'
+              label='Grapes'
+              path='/fruits'
+            />
+          </ul>
+
+          <ul className='cards__items'>
+            <CardItem
+              src='/images/Custa.jpg'
+              price='@ Ksh.20 Each'
+              text='Fresh Custard Apple available'
+              label='Custard Apple'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Kiwi.jpg'
+              price='@ Ksh.15 Each'
+              text='Fresh Kiwi fruit available'
+              label='Kiwi'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Coco.jpg'
+              price='@ Ksh.50 Each'
+              text='Fresh Coconut available'
+              label='Coconut'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Fig.jpg'
+              price='@ Ksh.10 Each'
+              text='Fresh Fig fruits available'
+              label='Fig'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/Lemon.jpg'
+              price='@ Ksh.10 Each'
+              text='Fresh Lemon available'
+              label='Lemon'
+              path='/fruits'
             />
           </ul>
         </div>
