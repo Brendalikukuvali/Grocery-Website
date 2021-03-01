@@ -133,7 +133,7 @@ function Cards() {
             />
             <CardItem
               src='/images/broco.jpg'
-              price='@ Ksh.30 Each'
+              price='@ Ksh.130 Each'
               text='Fresh Brocolli'
               label='Brocolli'
               path='/vegetables'
@@ -154,7 +154,7 @@ function Cards() {
             />
             <CardItem
               src='/images/spinach.jpg'
-              price='@ Ksh.70 per Kg'
+              price='@ Ksh.60 per Kg'
               text='Fresh Spinach'
               label='Spinach'
               path='/vegetables'

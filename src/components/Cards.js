@@ -57,14 +57,14 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='/images/pawpaw.jpg'
-              price='@ Ksh.80 Each'
+              price='@ Ksh.200 Each'
               text='Fresh and sweet Pawpaw'
               label='Pawpaw'
               path='/fruits'
             />
             <CardItem
               src='/images/guava.jpg'
-              price='@ Ksh.5 per Kg'
+              price='@ Ksh.80 per Kg'
               text='Fresh and sweet Guavas'
               label='Guavas'
               path='/fruits'
@@ -102,7 +102,7 @@ function Cards() {
             />
             <CardItem
               src='/images/beetru.jpg'
-              price='@ Ksh.130 per Kg'
+              price='@ Ksh.40 Each'
               text='Fresh Beetroots available'
               label='Beetroots'
               path='/vegetables'
@@ -119,14 +119,14 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='/images/cucu.jpg'
-              price='@ Ksh.140 per Kg'
+              price='@ Ksh.25 Each'
               text='Cucumbers available'
               label='Cucumber'
               path='/vegetables'
             />
             <CardItem
               src='/images/cabbe.jpg'
-              price='@ Ksh.50 Each'
+              price='@ Ksh.80 Each'
               text='Cabbages available'
               label='Cabbage'
               path='/vegetables'
@@ -140,7 +140,7 @@ function Cards() {
             />
             <CardItem
               src='/images/spinach.jpg'
-              price='@ Ksh.70 per Kg'
+              price='@ Ksh.60 per Kg'
               text='Fresh Spinach available'
               label='Spinach'
               path='/vegetables'
