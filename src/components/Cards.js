@@ -34,7 +34,7 @@ function Cards() {
             <CardItem
               src='/images/avoca.jpg'
               price='@ Ksh.50 Each'
-              text='Fresh and sweet Avocado'
+              text='Fresh, sweet Avocado'
               label='Avocado'
               path='/fruits'
             />
@@ -79,40 +79,9 @@ function Cards() {
             <CardItem
               src='/images/pin.jpg'
               price='@ Ksh.150 Each'
-              text='Fresh and sweet Pineapples'
+              text='Sweet Pineapples'
               label='Pineapple'
               path='/fruits'
-            />
-          </ul>
-          
-          <ul className='cards__items'>
-            <CardItem
-              src='./images/fru.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh fruveggies'
-              label='Fruveggies'
-              path='/all'
-            />
-            <CardItem
-              src='/images/img.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh fruvegies'
-              label='Fruvegies'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/frus.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh and affordable price'
-              label='Fruveggies'
-              path='/all'
-            />
-            <CardItem
-              src='/images/frug.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh and sweet Always'
-              label='Fruveggies'
-              path='/all'
             />
           </ul>
 
@@ -151,14 +120,14 @@ function Cards() {
             <CardItem
               src='/images/cucu.jpg'
               price='@ Ksh.140 per Kg'
-              text='Fresh Cucumbers available'
+              text='Cucumbers available'
               label='Cucumber'
               path='/vegetables'
             />
             <CardItem
               src='/images/cabbe.jpg'
               price='@ Ksh.50 Each'
-              text='Fresh cabbages available'
+              text='Cabbages available'
               label='Cabbage'
               path='/vegetables'
             />

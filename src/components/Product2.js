@@ -12,36 +12,36 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='/images/Caro.png'
-              price='@ Ksh.100 per Kg'
-              text='Fresh Carrots available'
+              price='@ Ksh.60 per Kg'
+              text='Carrots available'
               label='Carrots'
               path='/vegetables'
             />
             <CardItem
               src='/images/tomato.jpeg'
-              price='@ Ksh.150 per Kg'
-              text='Fresh Tomatoes available'
+              price='@ Ksh.90 per Kg'
+              text='Fresh Tomatoes'
               label='Tomatoes'
               path='/vegetables'
             />
             <CardItem
               src='/images/onion.jpg'
-              price='@ Ksh.130 per Kg'
-              text='Fresh Onions available'
+              price='@ Ksh.80 per Kg'
+              text='Onions available'
               label='Onions'
               path='/vegetables'
             />
            <CardItem
               src='/images/Bell.jpg'
               price='@ Ksh.20 Each'
-              text='Fresh Bell Pepper available'
+              text='Fresh Bell Pepper'
               label='Bell Pepper'
               path='/vegetables'
             />
             <CardItem
               src='/images/Garli.jpg'
-              price='@ Ksh.150 per Kg'
-              text='Fresh Garlic available'
+              price='@ Ksh.90 per Kg'
+              text='Garlic available'
               label='Garlic'
               path='/vegetables'
             />
@@ -51,35 +51,35 @@ function Cards() {
             <CardItem
               src='/images/Celery.jpg'
               price='@ Ksh.50 per Kg'
-              text='Fresh Celery available'
+              text='Celery available'
               label='Celery'
               path='/vegetables'
             />
             <CardItem
               src='/images/Cauli.png'
               price='@ Ksh.80 per Kg'
-              text='Fresh Cauliflower available'
+              text='Fresh Cauliflower'
               label='Cauliflower'
               path='/vegetables'
             />
             <CardItem
               src='/images/Oni.jpg'
-              price='@ Ksh.100 per Kg'
-              text='Fresh Green Onions available'
+              price='@ Ksh.50 per Kg'
+              text='Green Onions'
               label='Green Onions'
               path='/vegetables'
             />
             <CardItem
               src='/images/Bean.jpg'
-              price='@ Ksh.300 per Kg'
-              text='Fresh Green Beans available'
+              price='@ Ksh.90 per Kg'
+              text='Green Beans'
               label='Green Beans'
               path='/vegetables'
             />
             <CardItem
               src='/images/Pea.jpeg'
-              price='@ Ksh.350 each'
-              text='Fresh Peas available'
+              price='@ Ksh.90 per Kg'
+              text='Peas available'
               label='Peas'
               path='/vegetables'
             />
@@ -87,74 +87,36 @@ function Cards() {
           
           <ul className='cards__items'>
             <CardItem
-              src='./images/Veg.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh Vegetables available'
-              label='Vegetables'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/Veg1.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh Vegetables available'
-              label='Vegetables'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/Veg2.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh Vegatables available'
-              label='Vegetables'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/Veg3.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh Vegetables available'
-              label='Vegetables'
-              path='/vegetables'
-            />
-            <CardItem
-              src='/images/Veg4.jpg'
-              price='@ Ksh.500 per Basket'
-              text='Fresh Vegetables available'
-              label='Vegetables'
-              path='/vegetables'
-            />
-          </ul>
-
-          <ul className='cards__items'>
-            <CardItem
               src='/images/Cucu.jpg'
-              price='@ Ksh.200 per Kg'
-              text='Fresh Cucumber available'
+              price='@ Ksh.25 Each'
+              text='Fresh Cucumber'
               label='Cucumber'
               path='/vegetables'
             />
             <CardItem
               src='/images/Egg.jpg'
-              price='@ Ksh.20 each'
-              text='Fresh Eggplant available'
+              price='@ Ksh.30 Each'
+              text='Fresh Eggplant '
               label='Eggplant'
               path='/vegetables'
             />
             <CardItem
               src='/images/Pumpki.jpg'
-              price='@ Ksh.150 Each'
-              text='Fresh Pumpkin available'
+              price='@ Ksh.300 Each'
+              text='Fresh Pumpkin'
               label='Pumpkin'
               path='/vegetables'
             />
             <CardItem
               src='/images/beetru.jpg'
-              price='@ Ksh.130 per Kg'
-              text='Fresh beetroots available'
+              price='@ Ksh.50 Each'
+              text='Fresh Beetroots'
               label='Beetroots'
               path='/vegetables'
             />
             <CardItem
               src='/images/Pote.jpg'
-              price='@ Ksh.150 per Kg'
+              price='@ Ksh.80 per Kg'
               text='Fresh tomatoes'
               label='Tomatoes'
               path='/vegetables'
@@ -164,36 +126,36 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='/images/Lettu.jpg'
-              price='@ Ksh.140 per Kg'
-              text='Fresh Lettuce available'
+              price='@ Ksh.60 per Kg'
+              text='Fresh Lettuce'
               label='Lettuce'
               path='/vegetables'
             />
             <CardItem
               src='/images/broco.jpg'
-              price='@ Ksh.40 each'
-              text='Fresh Brocolli availabe'
+              price='@ Ksh.30 Each'
+              text='Fresh Brocolli'
               label='Brocolli'
               path='/vegetables'
             />
             <CardItem
               src='/images/cabbe.jpg'
-              price='@ Ksh.50 Each'
-              text='Fresh Cabbages available'
+              price='@ Ksh.80 Each'
+              text='Fresh Cabbages'
               label='Cabbage'
               path='/vegetables'
             />
             <CardItem
               src='/images/kales.jpg'
               price='@ Ksh.60 per Kg'
-              text='Fresh Kales available'
+              text='Fresh Kales'
               label='Kales'
               path='/vegetables'
             />
             <CardItem
               src='/images/spinach.jpg'
               price='@ Ksh.70 per Kg'
-              text='Fresh Spinach available'
+              text='Fresh Spinach'
               label='Spinach'
               path='/vegetables'
             />

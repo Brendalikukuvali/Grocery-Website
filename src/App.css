@@ -5,16 +5,16 @@
   font-family: 'PT Sans', sans-serif;
 }
 
-.home,
-.services,
-.products,
+/* .home,
+.fruits,
+.vegetables,
 .sign-up {
   display: flex;
   height: 90vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
-}
+} */
  .fruits {
   /* background-image: url('/Images/imageJ.jpg'); */
   /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2f/Culinary_fruits_front_view.jpg'); */

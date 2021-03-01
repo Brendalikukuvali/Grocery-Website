@@ -16,6 +16,7 @@ function CardItem(props) {
           <div className='cards__item__info'>
             <h5 className='cards__item__price'>{props.price}</h5>
             <h5 className='cards__item__text'>{props.text}</h5>
+            <button className='btn'>Add To Cart</button>
           </div>
         </Link>
       </li>

@@ -65,7 +65,7 @@
     max-width: calc((100%) - 60px);
     font-size: 12px;
     font-weight: 700;
-    color: #fff;
+    color: white;
     background-color:green;
     box-sizing: border-box;
   }
@@ -104,6 +104,20 @@
     font-size: 15px;
     line-height: 24px;
   }
+  .btn{
+    background-color: green;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 2rem;
+  }
+
+  /* .button{
+    background-color: greenyellow;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+  } */
   
   @media only screen and (min-width: 1200px) {
     .content__blog__container {
